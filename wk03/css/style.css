@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(167, 217, 240);
+    background: rgb(255, 248, 220)
+}
+
+h2 {
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+}
+
+div {
+    margin: 40px;
+    border: 4px dashed rgb(0,0,0);
+}
+
+div { 
+    border: 5px solid rgb(0,0,0);
+}
+
+div {
+    width: 30%;
+    display: inline-block
+}
+
+dt, dd {
+    display: inline-block;
+    padding: 4px 8px;
+    min-width: 40%;
+}
+
+dt {
+    font-weight: bold;
+}
